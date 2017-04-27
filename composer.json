@@ -1,0 +1,13 @@
+{
+    "name": "xrow/regexpline",
+    "description": "eZ Publish legacy extension providing a datatype that validates its content against regular expressions",
+    "type": "ezpublish-legacy-extension",
+    "license": "GPL-2.0",
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "~2.0"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "regexpline"
+    }
+}
